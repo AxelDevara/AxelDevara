@@ -22,11 +22,6 @@ I'm Axel from Indonesia got educated on the vast kangaroo land 🦘 and this is 
 
 <br/> 
 
-## 🕹️ Hobbies
-- Checkout my metal card design sidehustle! [Qubic](https://qubic.id)
-- Checkout my travel & adventure photos! [Instagram](https://www.instagram.com/axeldevara/)
-- DeFi investments duh!
-
 <br/>
 
 ## 🏆 Awards
