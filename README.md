@@ -2,8 +2,8 @@
 
 ![](https://komarev.com/ghpvc/?username=AxelDevara)
 
-## 🌍 Intro
-I'm Axel from Indonesia got educated on the vast kangaroo land 🦘 and this is my small codeverse. Have you ever think about significantly reducing economic inequality and poverty? Well, I do! I create and maintain the building blocks for trully decentralized web3 projects that will one day solve those problems. It's nothing big but it's an honest contribution 😀
+## 🌍 What I do
+I research and secure the latest blockchain innovations as well as providing consultations on how blockchain technologies can be applied to our daily life.
 
 <br />
 
@@ -27,6 +27,7 @@ I'm Axel from Indonesia got educated on the vast kangaroo land 🦘 and this is 
 ## 🏆 Awards
 - 3 Categories Winner EthOnline 2021 Hackathon
 - Ampleforth Winner Chainlink Fall 2021 Hackathon
+- Pangolin Grant Winner Moralis Avalanche Hackathon 2022
 
 </br>
 
