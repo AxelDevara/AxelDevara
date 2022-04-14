@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=AxelDevara)
 
 ## 🌍 What I do
-I research and secure the latest blockchain innovations as well as providing consultations on how blockchain technologies can be applied to our daily life.
+I research and secure the latest blockchain innovations as well as providing consultations on how blockchain technologies can be best applied to our day-to-day activities.
 
 <br />
 
